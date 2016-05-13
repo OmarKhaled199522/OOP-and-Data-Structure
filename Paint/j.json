@@ -1,0 +1,30 @@
+{{"Shapes" : [
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Rectangle},
+       {"position" : null,null},
+       {"BorderColor" : null},
+       {"FillColor" : null},
+       {"length" : null},
+       {"width" : null},
+    },
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Rectangle},
+       {"position" : null,null},
+       {"BorderColor" : null},
+       {"FillColor" : null},
+       {"length" : null},
+       {"width" : null},
+    },
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Rectangle},
+       {"position" : null,null},
+       {"BorderColor" : null},
+       {"FillColor" : null},
+       {"length" : null},
+       {"width" : null},
+    }
+  ]
+ },
+  "MAP" : {
+ }
+}

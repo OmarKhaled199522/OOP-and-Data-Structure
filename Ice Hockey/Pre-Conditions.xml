@@ -1,0 +1,4 @@
+Pre-Conditions:
+1) Empty Array of Strings will return null when searching for numbers
+2) If there is no person in the ground from the selected team, the system will return null
+3) The System doesn't support more than 50 players

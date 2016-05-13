@@ -1,0 +1,32 @@
+{{"Shapes" : [
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Circle},
+       {"position" : 100,100},
+       {"BorderColor" : -16776961},
+       {"FillColor" : -65536}
+       {"longR" : 100.0},
+       {"ShortR" : null},
+    },
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Circle},
+       {"position" : 200,200},
+       {"BorderColor" : -16777216},
+       {"FillColor" : -16777216}
+       {"longR" : 200.0},
+       {"ShortR" : null},
+    },
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Rectangle},
+       {"position" : 400,400},
+       {"BorderColor" : -16776961},
+       {"FillColor" : -16776961}
+       {"length" : 50.0},
+       {"width" : 50.0},
+    }
+  ]
+ },
+  "MAP" : {
+    {"N1" : 1},
+    {"R1" : 0}
+ }
+}

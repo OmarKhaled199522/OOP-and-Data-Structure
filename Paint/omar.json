@@ -1,0 +1,24 @@
+{{"Shapes" : [
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Circle},
+       {"position" : 100,100},
+       {"BorderColor" : -16777216},
+       {"FillColor" : -16777216}
+       {"longR" : 100.0},
+       {"ShortR" : null},
+    },
+    "ShapeElement" : {
+       {"type" : eg.edu.alexu.csd.oop.draw.cs07.Circle},
+       {"position" : 400,400},
+       {"BorderColor" : -65536},
+       {"FillColor" : -65536}
+       {"longR" : 50.0},
+       {"ShortR" : null},
+    }
+  ]
+ },
+  "MAP" : {
+    {"C1" : 0},
+    {"C2" : 1}
+ }
+}
